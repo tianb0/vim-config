@@ -160,5 +160,6 @@ nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 
 "" Coc Extensions
 let g:coc_global_extensions = [
-  \ 'coc-phpls'
+  \ 'coc-phpls',
+  \ 'coc-clangd'
   \]

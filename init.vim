@@ -18,6 +18,8 @@ Plug 'itchyny/lightline.vim'
 
 Plug 'sainnhe/gruvbox-material'
 
+Plug 'voldikss/vim-floaterm'
+
 call plug#end()
 
 source ~/.config/nvim/_general.vim
@@ -27,3 +29,4 @@ source ~/.config/nvim/_treesitter.vim
 source ~/.config/nvim/_fugitive.vim
 source ~/.config/nvim/_fzf.vim
 source ~/.config/nvim/_themed.vim
+source ~/.config/nvim/_floaterm.vim
